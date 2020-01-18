@@ -1,6 +1,6 @@
 Name:           perl-CSS-Tiny
 Version:        1.19
-Release:        4%{?dist}
+Release:        5%{?dist}
 Summary:        Read/Write .css files with as little code as possible
 
 Group:          Development/Libraries
@@ -50,6 +50,9 @@ make test
 
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 1.19-5
+- Mass rebuild 2013-12-27
+
 * Thu Feb 14 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 1.19-4
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_19_Mass_Rebuild
 
